@@ -2,11 +2,12 @@
 -- Engineer: 		Mohammad H. Amir Amjadi
 -- 
 -- Create Date:		21:12:12 02/17/2016 
+-- Version:		1.0
 -- Module Name:		bcd_to_sevensegment - Dataflow 
--- Usage:				Assign BCD code in STD_LOGIC_VECTOR to the BCD_CODE vector.
---					Output will be available on SEVEN_SEGMENT. Output is not registered.
---					Hex numbers are assignable too.
--- License:			GNU LGPL Version 3
+-- Usage:		   Assign BCD code in STD_LOGIC_VECTOR to the BCD_CODE vector.
+--			Output will be available on SEVEN_SEGMENT. Output is not registered.
+--			Hex numbers are assignable too.
+-- License:		GNU LGPL Version 3
 --
 ----------------------------------------------------------------------------------
 library IEEE;
